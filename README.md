@@ -6,15 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+Backend+%26+System+Design;Learning+AI+Agents+%26+LLMs;Turning+ideas+into+working+products" alt="Typing SVG" />
 
-<p>
-  <a href="https://github.com/surajgola00">
-    <img src="https://img.shields.io/github/followers/surajgola00?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/surajgola00?tab=repositories">
-    <img src="https://img.shields.io/github/stars/surajgola00?label=Stars&style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -132,6 +123,8 @@ Focused on intelligent hospital operations, resource management and predictive i
 
 `React` `TypeScript` `FastAPI` `Python` `SQLite`
 
+[View Project](https://github.com/TodFodCoders/CareMatrix)
+
 </td>
 
 <td width="50%">
@@ -150,18 +143,6 @@ Areas include:
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img src="./profile/stats.svg" width="49%" />
-
-<img src="./profile/top-langs.svg" width="49%" />
-
-</p>
-
----
-
 # Contribution Streak
 
 <p align="center">
@@ -171,26 +152,6 @@ Areas include:
 <img src="https://streak-stats.demolab.com?user=surajgola00&theme=tokyonight&hide_border=true" />
 
 </a>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajgola00&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# GitHub Contributions
-
-<p align="center">
-
-<img src="./profile/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </p>
 
@@ -220,44 +181,6 @@ Python
          │
          └── Production AI Applications
 ```
-
----
-
-# Research & Publications
-
-### AI-Driven Predictive Optimization of Smart Hospital Building Operations
-
-Research combining:
-
-`IoT` • `Digital Twins` • `Machine Learning` • `FHIR APIs` • `Predictive Analytics`
-
-**Role:** First Author & Presenter
-**Co-author & Mentor:** Vaishali Dixit
-
-**ISBN:** `979-8-3315-4677-9`
-
----
-
-# Hackathons & Competitions
-
-| Event                      | Focus                         |
-| -------------------------- | ----------------------------- |
-| 🇮🇳 Smart India Hackathon | National Innovation Challenge |
-| ⚡ RIFT'26                  | AI / Software Development     |
-| 🚀 SGT 2636hrs             | Hackathon                     |
-| 🏠 Hacker House Goa        | Software & Innovation         |
-
-I enjoy working on challenging problem statements, rapidly prototyping ideas and turning concepts into functional products.
-
----
-
-# Developer Philosophy
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat
-```
-
-> Build things that teach you something.
 
 ---
 
