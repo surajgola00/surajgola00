@@ -74,6 +74,8 @@ A healthcare coordination platform focused on intelligent resource management, h
 
 **Tech:** React • TypeScript • FastAPI • Python • SQLite
 
+[View Project](https://github.com/TodFodCoders/CareMatrix)
+
 ---
 
 ## Research & Publications
@@ -87,15 +89,11 @@ Co-author & Mentor: **Vaishali Dixit**
 
 **ISBN:** `979-8-3315-4677-9`
 
+[View Paper](https://ieeexplore.ieee.org/document/11628465)
+
 ---
 
 ## Hackathons & Competitions
-
-* 🏆 **Smart Yatra** — Tourist Safety & Incident Response
-* ⚡ **RIFT'26** — 24-hour Hackathon
-* 🚀 **SGT 2636hrs** — Hackathon
-* 🇮🇳 **Smart India Hackathon (SIH)** — National-level innovation challenge
-* 🏠 **Hacker House Goa 2026**
 
 I enjoy working under tight deadlines, building prototypes quickly, and turning problem statements into practical solutions.
 
@@ -122,7 +120,7 @@ Production-ready AI Applications
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajgola00&show_icons=true&theme=tokyonight" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajgola00&theme=tokyonight" />
 </p>
 
